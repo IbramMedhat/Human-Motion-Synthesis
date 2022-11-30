@@ -130,3 +130,6 @@ dmypy.json
 
 #Dataset
 H3.6csv/
+
+#Images
+*.png
